@@ -3,7 +3,7 @@
 
 * [Installation](#installation)
 * [Basic usage](#basic-usage)
-* [What's included](#whats-included)
+
 
 ### Installation
 
