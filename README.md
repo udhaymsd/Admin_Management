@@ -54,7 +54,6 @@ $ yarn build
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
-coreui-free-react-admin-template
 ├── public/          # static files
 │   └── index.html   # html template
 │
